@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "basiccodes_ba1db250"
+        },
+        {
+            "type": "java",
             "name": "Launch PalindromicNumPattern",
             "request": "launch",
             "mainClass": "PalindromicNumPattern",
