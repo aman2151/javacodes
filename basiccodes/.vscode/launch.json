@@ -1,0 +1,141 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch PalindromicNumPattern",
+            "request": "launch",
+            "mainClass": "PalindromicNumPattern",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberPyramid",
+            "request": "launch",
+            "mainClass": "NumberPyramid",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch SolidRhombus",
+            "request": "launch",
+            "mainClass": "SolidRhombus",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch ButterflyPattern",
+            "request": "launch",
+            "mainClass": "ButterflyPattern",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Triangle01",
+            "request": "launch",
+            "mainClass": "Triangle01",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedHalfpyramidWithNum",
+            "request": "launch",
+            "mainClass": "InvertedHalfpyramidWithNum",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch HalfPyramidWithNum",
+            "request": "launch",
+            "mainClass": "HalfPyramidWithNum",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedHalfPy180",
+            "request": "launch",
+            "mainClass": "InvertedHalfPy180",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch InvertedHalfPyramid",
+            "request": "launch",
+            "mainClass": "InvertedHalfPyramid",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch HalfPyramid",
+            "request": "launch",
+            "mainClass": "HalfPyramid",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch HollowRectangle",
+            "request": "launch",
+            "mainClass": "HollowRectangle",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calculator",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rcursion",
+            "request": "launch",
+            "mainClass": "Rcursion",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "basiccodes_8c501fda"
+        },
+        {
+            "command": "npm start",
+            "name": "Run npm start",
+            "request": "launch",
+            "type": "node-terminal"
+        },
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "pwa-extensionHost"
+        }
+    ]
+}
